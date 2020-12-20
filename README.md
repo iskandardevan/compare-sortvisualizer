@@ -12,4 +12,4 @@ The visualizer allows comparison of 2 algorithms, and creation of new random arr
 demo APP
 on https://raihanromzi.github.io/web-tubes-aka/#/doubleContainer
 
-
+### [Demo App](https://raihanromzi.github.io/web-tubes-aka/#/doubleContainer)
