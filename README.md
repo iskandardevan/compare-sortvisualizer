@@ -1,4 +1,5 @@
 ## Sorting Algorithm Visualizer
+>  algorithm complexity analysis course assignment
 
 Web application built with React that visualizes 2 of the most common sorting algorithms.
 
